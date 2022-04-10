@@ -23,6 +23,8 @@
 
 + Generate or choose a config file from "Configs" folder and run the Train notebook
 
+## Hugging Face Space
++ You can interact with the model [here](https://huggingface.co/spaces/will33am/fatima-Upside-Down-Detector)
 ## Logging
 
 You could see the logging and plotting of your metrics in [wandb]( https://wandb.ai/williamberrios/Fatima-Fellowship?workspace=user-williamberrios
